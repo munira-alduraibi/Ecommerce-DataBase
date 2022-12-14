@@ -1,7 +1,7 @@
 # Database for Ecommerce store 💳
 
 ## What?
-This project is meant for designing a database for an Ecommerce store that sells coffee beans and Equipments.
+This project is meant for creating a database for an Ecommerce store that sells coffee beans and Equipments. The main objective of this project is to find an idea and to draw the needed notations and then converted them to an ER model [as shown below](#chens-notation) and then after that writing [the SQL commands](e_commerce.sql) needed to create the database, tables, and some other commands to query and minplate the data.
 
 ### Business Rules 
 
@@ -26,8 +26,12 @@ The identifier for SECTIONs is a section_name, and every SECTION consists of pro
 <img width="592" hight="591" alt="UML Notation of the database" src="https://user-images.githubusercontent.com/80950031/207366686-98e95476-719e-4922-b720-f078f1501e28.png">
 
 
+### Schema
+<img width="592" hight="591" alt="Schema" src="https://user-images.githubusercontent.com/80950031/207591779-00795fec-703c-4912-9161-b4a806ed8ae0.png">
+
+
 ## Why?
-This small project is meant for my Database course and it main objectives is to design, model, and use SQL statements to create and manipulate database for an organisation of our choice.
+This small project is meant for the database I course and it’s main objectives is to design, model, and use SQL statements to create and manipulate database for an organisation of our choice.
 
 ## When? 
 13/9/2021 until 8/12/2021
@@ -37,6 +41,9 @@ This small project is meant for my Database course and it main objectives is to 
 * Munira Alduraibi (me)
 
 # What I learned?
-* How to choose the right data structure depending on the problem. 
-* To deal with and manipulate data using data structures.
-* How to use recursion.
+* To write business rules and scenarios that are logically correct.
+* To draw Entity Relationship Model forom the scenarios to Chen’s and UML notations.
+* To correctly translate (map) the ER diagram into a relational model.
+* To correctly normalize the relational schema.
+* To initiate MySQL connection 
+* To write all the commands needed for the database whether it is Data Definition, Data Manipulation, or Data Control commands.
