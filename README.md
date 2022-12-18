@@ -1,7 +1,7 @@
 # Database for Ecommerce store 💳
 
 ## What?
-Here’s is a simple database for an Ecommerce store that sells coffee beans and Equipments. The main objective of this project is to find an idea and to draw the needed notations and then converted them to an ER model [as shown below](#chens-notation) and then after that writing [the SQL commands](e_commerce.sql) needed to create the database, tables, and some other commands to query and minplate the data.
+Here’s is a simple database design and script for an Ecommerce store that sells coffee beans and Equipments. The main objective of this project is to find an idea and to draw the needed notations and then converted them to an ER model [as shown below](#chens-notation) and then after that writing [the SQL commands](e_commerce.sql) needed to create the database, tables, and some other commands to query and minplate the data.
 
 ### Business Rules 
 
