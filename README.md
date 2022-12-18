@@ -1,7 +1,7 @@
 # Database for Ecommerce store 💳
 
 ## What?
-This project is meant for creating a database for an Ecommerce store that sells coffee beans and Equipments. The main objective of this project is to find an idea and to draw the needed notations and then converted them to an ER model [as shown below](#chens-notation) and then after that writing [the SQL commands](e_commerce.sql) needed to create the database, tables, and some other commands to query and minplate the data.
+Here’s is a simple database for an Ecommerce store that sells coffee beans and Equipments. The main objective of this project is to find an idea and to draw the needed notations and then converted them to an ER model [as shown below](#chens-notation) and then after that writing [the SQL commands](e_commerce.sql) needed to create the database, tables, and some other commands to query and minplate the data.
 
 ### Business Rules 
 
@@ -31,7 +31,7 @@ The identifier for SECTIONs is a section_name, and every SECTION consists of pro
 
 
 ## Why?
-This small project is meant for the database I course and it’s main objectives is to design, model, and use SQL statements to create and manipulate database for an organisation of our choice.
+This small project is meant for the "database I" class and it’s main objectives is to design, model, and use SQL statements to create and manipulate database for an organisation of our choice.
 
 ## When? 
 13/9/2021 until 8/12/2021
