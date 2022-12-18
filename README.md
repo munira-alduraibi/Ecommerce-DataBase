@@ -46,4 +46,4 @@ This small project is meant for the "database I" class and it’s main objective
 * To correctly translate (map) the ER diagram into a relational model.
 * To correctly normalize the relational schema.
 * To initiate MySQL connection 
-* To write all the commands needed for the database whether it is Data Definition, Data Manipulation, or Data Control commands.
+* To write all SQL the commands needed for the database whether it is Data Definition, Data Manipulation, or Data Control commands.
