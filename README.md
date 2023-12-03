@@ -1,4 +1,4 @@
-# Database Design for Coffee Store 💳
+# Database Design for a Coffee Store 💳
 
 ## Overview
 This project involves the design and implementation of a database for an store specializing in coffee beans and equipment. The project's focus is on creating a functional and efficient database structure, starting from business rule formulation to entity-relationship (ER) modeling and SQL scripting.
