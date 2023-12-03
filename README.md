@@ -27,7 +27,7 @@ The project was conducted for a "Database I" class, with the main objectives bei
 - Implementing the database using SQL for data definition, manipulation, and control.
 
 ## Project Timeline
-**Duration:** September 13, 2021, to December 8, 2021
+**Duration:** Sep 2021 - Dec 2021
 
 ## Contributor
 **Author:**
