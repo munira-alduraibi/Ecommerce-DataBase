@@ -1,7 +1,7 @@
-# Database Design for Ecommerce Coffee Store 💳
+# Database Design for Coffee Store 💳
 
 ## Overview
-This project involves the design and implementation of a database for an Ecommerce store specializing in coffee beans and equipment. The project's focus is on creating a functional and efficient database structure, starting from business rule formulation to entity-relationship (ER) modeling and SQL scripting.
+This project involves the design and implementation of a database for an store specializing in coffee beans and equipment. The project's focus is on creating a functional and efficient database structure, starting from business rule formulation to entity-relationship (ER) modeling and SQL scripting.
 
 ### Business Rules
 - The store offers a range of coffee products, each with unique identifiers and attributes like price, production date, expiry date, and quantity.
